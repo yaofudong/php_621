@@ -16,7 +16,7 @@
 				<form action="#" method="post">
 					<input type="text" placeholder="让学习成为一种习惯!" name=""/>
 					<select name="">
-						<option value="1">帖子</option>
+						<option value="1">帖子de</option>
 						<option value="2">日志</option>
 						<option value="3">用户</option>
 						<option value="4">板块</option>
@@ -26,7 +26,7 @@
 				<ul id="hot">
 					<li>热搜：</li>
 					<li class="red">php</li>
-					<li class="red">php视频</li>
+					<li class="red">php</li>
 					<li class="red">php教程</li>
 				</ul>
 				<div id="guanzhu">
